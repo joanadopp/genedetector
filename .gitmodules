@@ -1,0 +1,3 @@
+[submodule "shiny_py_genedetector"]
+	path = shiny_py_genedetector
+	url = git@github.com:joanadopp/shiny_py_genedetector.git
