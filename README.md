@@ -12,4 +12,4 @@ This repo contains the jupyter notebook with the code to address this question.
 
 There are in total 9995 genes and 106762 individual cells detected in our [single cell RNA-seq dataset](https://www.nature.com/articles/s41593-023-01549-4). 
 
-The shiny for python web app allows anyone to upload their list of genes and download the result after running the genedetector.
+The shiny [web app](https://joana-dopp.shinyapps.io/gene_detector/) allows anyone to upload their list of genes and download the result after running the genedetector.
